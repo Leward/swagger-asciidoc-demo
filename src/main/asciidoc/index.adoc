@@ -1,0 +1,16 @@
+= MyIdeas User Guide
+
+This is a user manual for an example project.
+
+== Introduction
+
+This project does something.
+We just haven't decided what that is yet.
+
+== Code from the project
+
+[source,java]
+.Java code from project
+----
+include::{sourcedir}/eu/leward/asciidocdemo/IdeaController.java[tags=class]
+----
